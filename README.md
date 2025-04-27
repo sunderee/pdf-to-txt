@@ -18,7 +18,7 @@ A simple command-line tool to convert PDF files to plain text.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/username/pdf-to-txt.git
+git clone git@github.com:sunderee/pdf-to-txt.git
 cd pdf-to-txt
 ```
 
