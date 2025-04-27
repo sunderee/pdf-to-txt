@@ -19,7 +19,7 @@ cd pdf-to-txt
 
 2. Create and activate a virtual environment:
 ```bash
-python -m venv venv
+python3 -m venv venv
 source venv/bin/activate
 ```
 
@@ -77,7 +77,7 @@ optional arguments:
 ### Running tests
 
 ```bash
-python -m pytest
+python3 -m pytest
 ```
 
 ## License
